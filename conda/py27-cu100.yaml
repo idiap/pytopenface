@@ -1,0 +1,10 @@
+name: pytopenface
+dependencies:
+  - python=2.7
+  - pytorch::pytorch=1.4.0
+  - pytorch::torchvision
+  - cudatoolkit=10.0
+  - pip
+  - pip:
+    - dlib
+    - opencv-python==3.4.9.* # 3.4.10.* breaks

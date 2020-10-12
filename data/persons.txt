@@ -1,0 +1,9 @@
+name Jacques Chirac
+data/chirac1.jpg
+data/chirac2.jpg
+data/chirac4.jpg
+
+name Barack Obama
+data/obama1.jpg
+data/obama2.jpg
+data/obama4.jpg
